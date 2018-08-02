@@ -1,0 +1,1 @@
+class Preference < ActiveRecord::Base
